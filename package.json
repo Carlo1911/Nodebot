@@ -1,7 +1,7 @@
 {
-  "name": "vuebot",
+  "name": "nodebot",
   "version": "1.0.0",
-  "description": "Primer bot de telegram in vue",
+  "description": "Primer bot de telegram in nodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carlo1911/Vuebot.git"
+    "url": "git+https://github.com/Carlo1911/Nodebot.git"
   },
   "keywords": [
-    "vue.js",
+    "node.js",
     "telegram",
     "bot"
   ],
   "author": "Carlo1911",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Carlo1911/Vuebot/issues"
+    "url": "https://github.com/Carlo1911/Nodebot/issues"
   },
-  "homepage": "https://github.com/Carlo1911/Vuebot#readme",
+  "homepage": "https://github.com/Carlo1911/Nodebot#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "telegraf": "^3.10.1"
